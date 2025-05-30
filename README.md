@@ -1,5 +1,5 @@
 # Hi there, I'm Fares-manai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  ![](https://komarev.com/ghpvc/?username=Fares-manai&color=blue&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=ManaiFares&color=blue&style=flat-square)
 
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Fares+manai..&hearts;++,;Software-Engineering+student,;Love+to+learn+new+stuffs..<3"></a>
@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fares-manai&show_icons=true&theme=radical&locale=en" alt="Fares-manai" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ManaiFares&show_icons=true&theme=radical&locale=en" alt="Fares-manai" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fares-manai&theme=radical" alt="Fares-manai" />
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fares-manai&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManaiFares&theme=radical&layout=compact)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Here’s a list of languages and tools I work with</b>
@@ -30,7 +30,7 @@
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Fares-manai&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ManaiFares&theme=radical)
 
 
 
