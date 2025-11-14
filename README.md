@@ -50,9 +50,6 @@ Here’s my toolkit for coding and design:
 
 
 
-## 📰 Recent Activity
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=ManaiFares&theme=dracula&hide_border=true&area=true)
-
 ## 🤝 Let's Connect!
 I’m always up for collaborating on innovative software or design projects, whether it’s coding a sleek app or designing a stunning UI. Drop me a message!
 
