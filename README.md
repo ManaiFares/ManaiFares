@@ -1,16 +1,10 @@
 # Hi there, I'm Fares Manai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-![](https://komarev.com/ghpvc/?username=Azer-khadhraoui&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ManaiFares&color=blue&style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hey!+It's+Fares Manai..♥;Software+Engineering+Student+@+ESPRIT;Full-Stack+Developer+%26+Problem+Solver;PowerApps+Developer+%26+Innovation+Enthusiast;Love+to+learn+new+technologies..♥">
-  </a>
-</p>
 
 I'm a **Software Engineering student** with a fiery passion for **UI/UX design**, **graphic design**, and building innovative software solutions. I love merging clean code with creative design to craft user-friendly and visually stunning projects. Welcome to my GitHub universe!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ManaiFares&color=blue&style=flat-square)
 
 ## 🌟 About Me
 - 💻 Studying Software Engineering, with a focus on full-stack development and intuitive interfaces.
@@ -18,20 +12,6 @@ I'm a **Software Engineering student** with a fiery passion for **UI/UX design**
 - 🚀 Constantly learning new tools, frameworks, and design trends to push my projects to the next level.
 - 🖌️ Skilled in transforming ideas into functional, visually appealing applications.
 - 🌍 Open to collaboration on exciting coding and design projects!
-
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ManaiFares&show_icons=true&theme=dracula&locale=en" alt="Fares-manai" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManaiFares&theme=dracula" alt="Fares-manai" />
-    </td>
-  </tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManaiFares&theme=dracula&layout=compact)
 
 
 ## 🛠️ Languages & Tools
