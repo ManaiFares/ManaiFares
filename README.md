@@ -1,4 +1,12 @@
-# 👋 Hey, I'm Fares Manai!
+# Hi there, I'm Fares Manai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+![](https://komarev.com/ghpvc/?username=Azer-khadhraoui&color=blue&style=flat-square)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hey!+It's+Fares Manai..♥;Software+Engineering+Student+@+ESPRIT;Full-Stack+Developer+%26+Problem+Solver;PowerApps+Developer+%26+Innovation+Enthusiast;Love+to+learn+new+technologies..♥">
+  </a>
+</p>
 
 I'm a **Software Engineering student** with a fiery passion for **UI/UX design**, **graphic design**, and building innovative software solutions. I love merging clean code with creative design to craft user-friendly and visually stunning projects. Welcome to my GitHub universe!
 
