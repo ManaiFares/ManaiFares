@@ -33,8 +33,7 @@ Here’s my toolkit for coding and design:
 ![Qt Designer](https://img.shields.io/badge/Qt%20Designer-4E4E4E?style=for-the-badge&logo=qt&logoColor=white)
 
 
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=ManaiFares&theme=dracula)
+
 
 
 
