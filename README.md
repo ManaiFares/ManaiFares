@@ -6,15 +6,15 @@
 I'm a **Software Engineering student** with a fiery passion for **UI/UX design**, **graphic design**, and building innovative software solutions. I love merging clean code with creative design to craft user-friendly and visually stunning projects. Welcome to my GitHub universe!
 
 
-## 🌟 About Me
-- 💻 Studying Software Engineering, with a focus on full-stack development and intuitive interfaces.
-- 🎨 Obsessed with **UI/UX design** and **graphic design**, creating seamless and aesthetic user experiences.
-- 🚀 Constantly learning new tools, frameworks, and design trends to push my projects to the next level.
-- 🖌️ Skilled in transforming ideas into functional, visually appealing applications.
-- 🌍 Open to collaboration on exciting coding and design projects!
+##  About Me
+- Studying Software Engineering, with a focus on full-stack development and intuitive interfaces.
+- Obsessed with **UI/UX design** and **graphic design**, creating seamless and aesthetic user experiences.
+- Constantly learning new tools, frameworks, and design trends to push my projects to the next level.
+- Skilled in transforming ideas into functional, visually appealing applications.
+- Open to collaboration on exciting coding and design projects!
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 Here’s my toolkit for coding and design:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@ Here’s my toolkit for coding and design:
 
 
 
-## 🤝 Let's Connect!
+## Let's Connect! ##
 I’m always up for collaborating on innovative software or design projects, whether it’s coding a sleek app or designing a stunning UI. Drop me a message!
 
 [<img src="https://img.shields.io/badge/GitHub-181717?style-for-the-badge&logo=github&logoColor=white" />](https://github.com/ManaiFares)
@@ -38,4 +38,3 @@ I’m always up for collaborating on innovative software or design projects, whe
 
 
 ---
-*Crafted with ❤️ and 🎨 by Fares Manai*
