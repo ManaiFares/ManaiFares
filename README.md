@@ -59,7 +59,7 @@ I'm always up for collaborating on a sleek app, a stunning UI, or anything in be
 <div align="center">
 
 <a href="https://github.com/ManaiFares"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/fares-mannai-83718328a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/fares-mannai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://linktr.ee/Fares.Manai"><img src="https://img.shields.io/badge/Portfolio-9C9587?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 </div>
