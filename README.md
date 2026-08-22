@@ -10,11 +10,11 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ManaiFares&color=0073b1&style=flat-square)
+
 
 </div>
 
----
+
 
 **Role:** Designer & Software Engineer
 
