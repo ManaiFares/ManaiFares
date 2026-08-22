@@ -1,15 +1,14 @@
 # Fares Manai
 
 <div align="center">
-  <a href="https://linktr.ee/Fares.Manai">
-    <img src="https://raw.githubusercontent.com/Fares-Manai/Fares-Manai/main/UIUX.gif" width="100%" alt="Header Banner" />
-  </a>
+  <video src="PASTE_YOUR_GITHUB_MP4_URL_HERE" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 <br />
 
 <div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=ManaiFares&color=0073b1&style=flat-square)
 
 </div>
 
