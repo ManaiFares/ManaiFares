@@ -1,7 +1,9 @@
 # Fares Manai
 
 <div align="center">
-  <video src="PASTE_YOUR_GITHUB_MP4_URL_HERE" width="100%" autoplay loop muted playsinline></video>
+  <a href="https://linktr.ee/Fares.Manai">
+    <img src="https://raw.githubusercontent.com/ManaiFares/ManaiFares/main/UIUX.gif" width="100%" alt="Header Banner" />
+  </a>
 </div>
 
 <br />
